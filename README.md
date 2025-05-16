@@ -1,1 +1,1 @@
-# Daily Java Practice
+#  Java Practice programs
