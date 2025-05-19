@@ -1,0 +1,18 @@
+package com.gqt;
+
+public class ocalVariableExam3 {
+
+	public static void main(String[] args) {
+		int a=10;
+		int b;
+		
+		if(a==10) {
+			b=25;
+		}else {
+			b=48;
+		}
+		System.out.println(a);// 10
+		System.out.println(b); // 25
+	}
+
+}
